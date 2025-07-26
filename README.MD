@@ -1,8 +1,7 @@
 # 🔐 Implantação de Arquitetura de Autenticação e Autorização da empresa Futuristech
 
 Este projeto apresenta a arquitetura de autenticação e autorização voltada para gestão de acessos em aplicativos web e gerenciamento de APIs, 
-com foco em segurança, conformidade regulatória e experiência do usuário. Foi desenvolvido como parte do programa de estudos **Caixaverso**, 
-ministrado pela empresa **ADA Tecnologia**, com base na documentação oficial da trilha de Desenvolvimento Seguro de Aplicações.
+com foco em segurança, conformidade regulatória e experiência do usuário de um empresa ficticia chamada Futuristech. Foi desenvolvido como parte do programa de estudos **Caixaverso**, ministrado pela empresa **ADA Tecnologia**, com base na documentação oficial da trilha de Desenvolvimento Seguro de Aplicações I.
 
 ## 🧠 Sobre o Projeto
 
@@ -15,7 +14,7 @@ A proposta envolve:
 
 ## 🎓 Fontes Utilizadas
 
-- PDF oficial da trilha de estudos Caixaverso (ADA Tecnologia)
+- PDF oficial da trilha de estudos Caixaverso (ADA Tecnologia) Desenvolvimento Seguro de Aplicações I
 - Diretrizes do **NIST** sobre identidade digital
 - Materiais da **OWASP** para aplicações e APIs seguras
 
@@ -31,7 +30,7 @@ simulando uma conversa entre duas inteligências artificiais sobre o conteúdo a
 
 ## 🚀 Objetivos
 
-- Garantir conformidade com a LGPD/GDPR
+- Garantir conformidade com a LGPD/GDPR para a empresa Futuristech
 - Fortalecer os pilares de segurança: confidencialidade, integridade, disponibilidade, autenticidade, não-repúdio
 - Promover cultura de segurança e boas práticas entre equipes de desenvolvimento, operações e governança
 
