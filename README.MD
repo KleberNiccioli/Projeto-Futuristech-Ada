@@ -25,7 +25,7 @@ gráficos e recursos interativos para facilitar a compreensão da arquitetura pr
 
 ## 🗣️ Acessibilidade com áudio
 
-Também foi gerado um **áudio com transcrição em estilo diálogo**, utilizando o [NotebookLM](https://notebooklm.google.com/), 
+Também foi gerado um **áudio com transcrição em estilo diálogo**, (Podcast) utilizando o [NotebookLM](https://notebooklm.google.com/), 
 simulando uma conversa entre duas inteligências artificiais sobre o conteúdo apresentado. Isso torna o aprendizado mais leve e acessível.
 
 ## 🚀 Objetivos
