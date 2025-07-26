@@ -23,7 +23,7 @@ A proposta envolve:
 Os slides foram elaborados utilizando a ferramenta [Gamma.app](https://gamma.app/), priorizando visual limpo e conteúdo didático. Foram usados elementos 
 gráficos e recursos interativos para facilitar a compreensão da arquitetura proposta.
 
-## 🗣️ Conteúdo Interativo
+## 🗣️ Acessibilidade com áudio
 
 Também foi gerado um **áudio com transcrição em estilo diálogo**, utilizando o [NotebookLM](https://notebooklm.google.com/), 
 simulando uma conversa entre duas inteligências artificiais sobre o conteúdo apresentado. Isso torna o aprendizado mais leve e acessível.
